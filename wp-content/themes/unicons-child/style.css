@@ -1,0 +1,55 @@
+/*
+Theme Name: unicons Child Theme
+Template: unicons
+Version: 1.0.0
+*/
+@media screen and (max-width: 992px) {
+  .columns {
+    padding-left: 0 !important;
+    padding-right: 0 !important; } }
+
+#site-title {
+  width: 140px; }
+  @media screen and (max-width: 992px) {
+    #site-title {
+      padding-top: 10px; } }
+
+.top-nav-collapse {
+  background: rgba(33, 33, 33, 0.6) !important; }
+
+@media screen and (max-width: 992px) {
+  .stat-content .brand-heading strong {
+    font-size: 48px !important;
+    text-shadow: 2px 2px 2px rgba(10, 10, 10, 0.2); } }
+
+#typed {
+  color: white; }
+  @media screen and (max-width: 992px) {
+    #typed {
+      font-size: 30px !important; } }
+
+.slider-bnt2 {
+  background: rgba(10, 10, 10, 0.2) !important;
+  border: 1px solid #703030 !important;
+  border-radius: 3px;
+  margin-right: 8%; }
+  .slider-bnt2:hover {
+    border: 1px solid #F2DABF !important; }
+
+.slider-bnt {
+  background: rgba(10, 10, 10, 0.2) !important;
+  padding-bottom: 2px;
+  padding-top: 2px; }
+
+.bttn {
+  border: 1px solid #703030 !important; }
+  .bttn:hover {
+    background: none !important; }
+  .bttn:hover span {
+    color: #703030 !important; }
+
+.iconcontent img {
+  height: 125px;
+  width: 125px; }
+
+/*# sourceMappingURL=style.css.map */
